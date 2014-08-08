@@ -1,0 +1,33 @@
+body {
+	background-color:#2a4e6e;
+}
+table {
+	outline: 1px black solid;
+	border-collapse:collapse;
+	background-color: #00072c;
+	color: #c3d8eb;
+}
+
+.lib{
+	float: left;
+	width: 45%;
+}
+
+.queue{
+	float: right;
+	width: 45%;
+	height: 100px;
+}
+
+.player{
+	clear:both;
+	padding: 10px;
+	margin-left:30%;
+	margin-right:30%;
+	width: 40%;
+}
+
+.button{
+
+}
+
